@@ -1,0 +1,3 @@
+Our operational scaling methodology emphasizes remote-first hiring parameters across development loops.
+
+Financial parameters dictate maintaining 6 months of absolute project cash buffers before authorizing external infrastructure expansions.
